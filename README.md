@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kaustuvsharma7
+- 👋 Hi, I’m Kaustuv Sharma
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter projects 
+- 🌱 Bachelors in Computer Science 
 - 📫 React me at @kaustubharajsharma@gmail.com
 
 <!---
